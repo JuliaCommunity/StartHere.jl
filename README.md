@@ -39,13 +39,15 @@ Hello, I have started this document as a handy glossary to point to for beginner
 | Ship it!            |           A phrase to publish some code, usually with some bravery. |
 | #general            |             A chatting channel on Slack/Zulip where things of general Julia interest are discussed.|
 | #random             |         A chatting channel on Slack/Zulip where things are more casual and people post about random things, like the latest computer chips or a cool new video gets shared |
+| #introduction | |
 | #helpdesk           | A place where you can ask even the most basic questions about working with Julia and volunteers will try to help. Very useful to read [how to get help](https://discourse.julialang.org/t/psa-make-it-easier-to-help-you/) before. Also consider that people do this for free, so please be kind. |
 | #community          |              A channel to coordinate community events like meetups, conferences, etc. |
 | #diversity          |                  A place to discuss efforts towards the inclusion of marginalized people within the Julia community |
 |#jobs ||
+| #gsoc ||
 | #appreciation ||
 | #gripes ||
-| #aprecigripes ||
+| #apprecigripes ||
 | Moderator           |                          Moderator here on Discourse. People who help keep spam away and interactions friendly and productive. |
 | Steward             |                 Julia long time community members who take actions about faults with the CoC by community members. Not their day job, not their favorite job, not a thankful job, but rewarding for the community at large since this almost all online communities need to enforce some rules. |
 | bump (an issue)                |              To recomment on a github issue or topic so that it gains attention again. Usually well intentioned if someone committed to working on the code and hasn't reported back in a while and it would be useful to know the current status of it. |
