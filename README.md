@@ -42,9 +42,14 @@ Hello, I have started this document as a handy glossary to point to for beginner
 | #helpdesk           | A place where you can ask even the most basic questions about working with Julia and volunteers will try to help. Very useful to read [how to get help](https://discourse.julialang.org/t/psa-make-it-easier-to-help-you/) before. Also consider that people do this for free, so please be kind. |
 | #community          |              A channel to coordinate community events like meetups, conferences, etc. |
 | #diversity          |                  A place to discuss efforts towards the inclusion of marginalized people within the Julia community |
+|#jobs ||
+| #appreciation ||
+| #gripes ||
+| #aprecigripes ||
 | Moderator           |                          Moderator here on Discourse. People who help keep spam away and interactions friendly and productive. |
 | Steward             |                 Julia long time community members who take actions about faults with the CoC by community members. Not their day job, not their favorite job, not a thankful job, but rewarding for the community at large since this almost all online communities need to enforce some rules. |
 | bump (an issue)                |              To recomment on a github issue or topic so that it gains attention again. Usually well intentioned if someone committed to working on the code and hasn't reported back in a while and it would be useful to know the current status of it. |
 | ping                |                      To mention someone like @this so that they get a notification. |
 | necroposting        |          To find a post in a forum like Discourse that hasn't been touched upon in quite a while and try to restart the conversation. Usually not seen in a positive light, some topics need to be moved on from. |
+|||
 
