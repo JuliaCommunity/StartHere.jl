@@ -19,7 +19,6 @@ Hello, I have started this document as a handy glossary to point to for beginner
 | LGTM                | Looks Good To Me |
 | YMMV                | Your Mileage May Vary, an abbrevaited way to say "Your experience may be different than mine". |
 | IIUC                | If I Understand Correctly |
-| AFAIK               | As Far As I Know |
 | IANAL               | I Am Not A Lawyer  |
 | PR                  | Pull Request (see Git) |
 | REPL | Read Evaluate Print Loop, also known as that terminal / dark window when you open up Julia for the first time. Very useful for experimenting with you Julia codes. |
